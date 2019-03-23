@@ -15,10 +15,10 @@
 
   配置书签，左侧栏会新增一块书签栏，设置书签可以通过命令行或者快捷键，可以在其他地方查看插入书签处的代码，具体功能看插件提示
   常用的主要有 
-    toggle(切换标签状态) 
-    Toggle Labeled(添加标签时添加标签记录) 
-    jump to next(跳到本文件下一处标签) 
-    jump to previous(跳到本文件上一次标签)
+    toggle(切换标签状态)   
+    Toggle Labeled(添加标签时添加标签记录)   
+    jump to next(跳到本文件下一处标签)   
+    jump to previous(跳到本文件上一次标签)  
 
 ## bracket pair colorizer
   
