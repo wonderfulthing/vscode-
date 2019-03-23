@@ -52,6 +52,6 @@
   
  ## git history file(待使用)
  
-  对于git文件提交记录提供一个可视化操作，由于目前没有使用git，没有实践操作
-  文档查看地址(https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
+  对于git文件提交记录提供一个可视化操作，由于目前没有使用git，没有实践操作  
+  [ 文档查看地址 ](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
   
