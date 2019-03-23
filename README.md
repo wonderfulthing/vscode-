@@ -9,16 +9,17 @@
 ## better comments
 
   备注的其他格式显示，便于醒目，配置的颜色在插件里有提示
-  主要有块注释(深绿色), 单独*(浅绿色) !(红色) ?(蓝色) TODO(橙色) @param(浅蓝色) 
+  主要有  
+    块注释(深绿色), 单独*(浅绿色) !(红色) ?(蓝色) TODO(橙色) @param(浅蓝色) 
 
 ## bookmarks
 
   配置书签，左侧栏会新增一块书签栏，设置书签可以通过命令行或者快捷键，可以在其他地方查看插入书签处的代码，具体功能看插件提示
-  常用的主要有 
-    toggle(切换标签状态)   
-    Toggle Labeled(添加标签时添加标签记录)   
-    jump to next(跳到本文件下一处标签)   
-    jump to previous(跳到本文件上一次标签)  
+  常用的主要有  
+      toggle(切换标签状态)   
+      Toggle Labeled(添加标签时添加标签记录)   
+      jump to next(跳到本文件下一处标签)   
+      jump to previous(跳到本文件上一次标签)  
 
 ## bracket pair colorizer
   
