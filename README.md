@@ -55,3 +55,14 @@
   对于git文件提交记录提供一个可视化操作，由于目前没有使用git，没有实践操作  
   [ 文档查看地址 ](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
   
+  
+  ## Version Lens
+  
+  显示 package.json 文件中每个软件包的最新版本
+  
+  ## terminal 配置（使用git bash）
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.fontFamily": "FuraMono Nerd Font",
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.rightClickCopyPaste": true
+  
